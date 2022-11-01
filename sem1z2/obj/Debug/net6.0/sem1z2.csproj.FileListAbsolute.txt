@@ -1,0 +1,15 @@
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\bin\Debug\net6.0\sem1z2.exe
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\bin\Debug\net6.0\sem1z2.deps.json
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\bin\Debug\net6.0\sem1z2.runtimeconfig.json
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\bin\Debug\net6.0\sem1z2.dll
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\bin\Debug\net6.0\sem1z2.pdb
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\obj\Debug\net6.0\sem1z2.csproj.AssemblyReference.cache
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\obj\Debug\net6.0\sem1z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\obj\Debug\net6.0\sem1z2.AssemblyInfoInputs.cache
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\obj\Debug\net6.0\sem1z2.AssemblyInfo.cs
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\obj\Debug\net6.0\sem1z2.csproj.CoreCompileInputs.cache
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\obj\Debug\net6.0\sem1z2.dll
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\obj\Debug\net6.0\refint\sem1z2.dll
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\obj\Debug\net6.0\sem1z2.pdb
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\obj\Debug\net6.0\sem1z2.genruntimeconfig.cache
+C:\Users\NY\Desktop\Practica\Zadaniya\seminar\sem1z2\obj\Debug\net6.0\ref\sem1z2.dll
